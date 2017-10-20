@@ -1,0 +1,165 @@
+body {
+	background-color: #232323;
+	margin: 0;
+	font-family: "Montserrat", "Avenir";
+	font-weight: normal;
+}
+
+.square {
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border: 1px solid transparent;
+	border-radius: 15%;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+
+#container {
+	max-width: 50%;
+	margin: 20px auto;
+}
+
+h1, h3 {
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+#message {
+	color: black;
+	text-align: center;
+	padding-bottom: 10px;
+	display: inline-block;
+	width: 30%;
+	font-size: 125%;
+}
+
+span {
+	display: inline;
+}
+#header {
+	padding: 25px 0;
+	width: 100%;
+	background: steelblue;
+	line-height: 0;
+}
+
+#navigation {
+	height: 30px;
+	background: white;
+	text-align: center;
+}
+
+.selected {
+	background: steelblue;
+	color: white;
+}
+button {
+	border-style: none;
+	display: inline;
+	color: steelblue;
+	height: 30px;
+	outline: none;
+	background: none;
+	font-size: 125%;
+	font-weight: 700;
+	transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+}
+
+.hide {
+	display: none;
+}
+
+#hard {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+
+.hide {
+	display: none;
+}
+
+#rgbDisplay {
+	font-size: 175%;
+}
+
+button:hover {
+	background: steelblue;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**{
+ margin: 0; padding: 0;
+}
+html {
+	height: 100%;
+}
+body {
+	min-height: 100%;
+}
+#div1 {
+  background: blue;
+}
+
+h1, h2 {
+	color: white;
+	text-align: center;
+}
+*/
